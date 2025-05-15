@@ -114,5 +114,4 @@ function deselectAll() {
     return match ? match[1] : '';
   }
 
-// Initialize
 window.onload = fetchSheetData;
