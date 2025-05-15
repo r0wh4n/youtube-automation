@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "glassy-droplet-458222-s6",
+  "private_key_id": "dd89041fdacaa4f21a43f46b2205bb4f686265c5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJZm3r/oeF+HGN\n0lsdHTJByu3e4bv84G2uuDdx6dzTgJ6sW+t0YCmFkdHbSc6uGzxMxaLtUkusCzBN\nKuQaCpjG4AWau/CT2+D/hEuQTOSgSq2acWRrx5yAUGD46KXX+lig8+PXNpMXKpIo\nV7z4X2mTKMB3AR/pmrgCLz4mV4Nv1hH9Chmn3PcPZcZjDY0J1pphH24SgBmg6mRK\nH30jPf6D4JC1gL/OOfJAO8vxOvYoBMuLMHFe9TN/nR9v1mVGWKXBQfX0MTlfWS5r\nwDXoEi6fhRjdBKQr+JL8MbqinegEtUewIi/aqfNEoes5OJjIT6TD7kkx4tFUR6dB\nn9YSg6mFAgMBAAECggEAGTjEp1ChiZDgLPydAHu5jC0XtlkwAQPczeFawDSjZ7FX\nLbVNOq5tmhagNgV7kVOZLPF17UvobMvx6UK9J4MQOEex1qZBWKL+qGvZnWFOeGx3\nFT0CGyVNChyxfY/VGm51pE0myWWXl3JzX1ith6/wjsdZuGLhq5BUCaH/odmafOoU\nkpSmVyQAH86H5TynIe91RlXYS3Ivj2xIf/yvm4gxxEjB07b+rYjcBybLKOYG3oxA\nbdkQ+MOFPORbm8Le93f1EWpDvAWTgt2NvL7+tfGKkv1w4WyFpiDmuoDfl63/YtMC\nNWWMaeuwkiGXa679akCOsH5P5TYtd2itCeb1iBJY+QKBgQDsNyMq1+0b9HY1+j/w\nEuB5484hVwoxwy4W9Fbge/OevLssxmXuYgKBAo1mXHJlW2rWshBIRF3/i6CnQgJj\nV/oPAXoYofJV0T/FkyEsWytpNYcLFflHneNdA8AQDW4wONwBofYnnlsaonNk5bFJ\nIe0xqno4e/1qZWeLZRON9qDYlwKBgQDaRMsE0bxEX17ddb2xowRKsBVZwDpxpC53\nP4nIqx90nqnuM74FabxVEG2CLt/neSOluOj3qPm0vaRpCXbuCoRgWYjc+sj6dOzz\n/jcqVa82j4adYKaJnfPfFtZJmeYSjx3iQBYO8qv4FIvCkcuGLPzW6+HjpKJsRPW4\nl31jxmIWQwKBgQDQZqTkO7S5oShZ3vth94WMhGtsBrq7xJN5NQEg9LqvJZuNmUx8\n0IOdBn9x+8YBnnHYESlEWO0FdE68wgQRWaEIdCkgamC/TemRiokN9TGLlOob4bsY\ncDgT7CcbAn5glQmldxsRQSjnisN8FRogh4oY82r5QosFv4lm9joWWaz26QKBgEuI\nGNVPGx5x/msWrpFFP1v1OT44xkDDNw0vIKgfh6Acs+NpZm2LHJA3Qh4VyIfapNpZ\ndc0WXWsNYVKz4sMXQp3w/eqyolABnGoG4+IzipGP816MrrTawyTFS1xm9HYhro63\n7Ko5kgckXQT03QBOmyRotl/HfimHZ5z8V3jqktDvAoGBAN28UHiWHVE8tOiHdCvg\nMKMstSWc5OoRPSxgCzBSLaA0QbuUmMjx2LeCyc5l02ICKUrkg8ygAJnYA0BUxo/m\nM8QxrSLMUSsJmXzgZTBRxAB8FNJwHEBJh+n0z2qoHHhS5333vnPuqF3ho/X10Sfe\nTBmh6YkRM0ntKXLl7cSPSTrz\n-----END PRIVATE KEY-----\n",
+  "client_email": "youtube-automation-app@glassy-droplet-458222-s6.iam.gserviceaccount.com",
+  "client_id": "109532108651704802328",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/youtube-automation-app%40glassy-droplet-458222-s6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
