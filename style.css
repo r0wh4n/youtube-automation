@@ -135,4 +135,11 @@ body {
   .video-title {
     vertical-align: middle;
   }
-  
+  #pagination button {
+    margin: 2px;
+    padding: 5px 10px;
+  }
+  #pagination button.active {
+    background: #00ff99;
+    color: #fff;
+  }
